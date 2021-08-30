@@ -17,3 +17,18 @@ burpsuite python extention (burpsuite python 插件)
 ## favscan.py
 扫描favicon.ico并进行匹配识别
 
+## log2dbbp
+log burpsuite request to sqlite db
+
+## refxssscan
+扫描反射漏洞
+
+## springscan
+扫描spring接口
+
+## shirofinder
+根据cookie关键字提示shiro接口
+
+## jsonscan
+json相关接口扫描
+
